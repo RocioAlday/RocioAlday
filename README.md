@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Rocio</h1>
 <h3 align="center">Full Stack Developer & Biomedical Engineer</h3>
-<p>I’m currently working on personal projects like my portfolio and designing an application for a 3d printing company. </p>
+<p>I’m currently working on personal projects and training to improve my skills. </p>
 <p> I've always had a great passion and enthusiasm for technology, as a developer and engineer I am looking for new challenges and opportunities in the IT field. I would love to be part of a working team adding value in the creation of innovative software🚀 </p>
 
 <h4 align="left">Languages and Tools:</h4>
