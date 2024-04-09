@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Rocio</h1>
-<h3 align="center">Full Stack Developer & Biomedical Engineer</h3>
+<h3 align="center">Full Stack Developer - ABAP Developer - Biomedical Engineer</h3>
 <p>I’m currently working on projects and training to improve my skills. </p>
 <p> I've always had a great passion and enthusiasm for technology, as a developer and engineer I am looking for new challenges and opportunities in the IT field. I would love to be part of a working team adding value in the creation of innovative software🚀 </p>
 
